@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:3:5-73
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:5:5-35:19
+	android:label
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:6:9-36
+activity#course.examples.broadcastreceiver.compoundorderedbroadcast.CompoundOrderedBroadcastWithResultReceiver
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:9:9-17:20
+	android:label
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:11:13-45
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:10:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:15:27-74
+receiver#course.examples.broadcastreceiver.compoundorderedbroadcast.Receiver2
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:exported
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:20:13-96
+intent-filter#action:name:course.examples.BroadcastReceiver.show_toast
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:22:13-25:29
+	android:priority
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:22:28-49
+action#course.examples.BroadcastReceiver.show_toast
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:23:17-24:26
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:23:25-84
+receiver#course.examples.broadcastreceiver.compoundorderedbroadcast.Receiver3
+ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml:28:13-96
+uses-sdk
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mohammed\AndroidStudioProjects\BcastRecCompOrdBcastWithResRec\app\src\main\AndroidManifest.xml
